@@ -1,2 +1,3 @@
 # fix-secure-input
-Script &amp; Alfred plugin to quickly fix Secure Input being stuck on in macOS
+
+Script & Alfred workflow to quickly fix Secure Input being stuck on in macOS.
